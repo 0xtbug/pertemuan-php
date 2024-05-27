@@ -14,7 +14,7 @@ if (!isset($_SESSION['email'])) {
     <title>Document</title>
 </head>
 <body>
-    <h1>Aplikasi Perpustakaan</h1>
+    <h1>Aplikasi Perpustakaan V2</h1>
 
     <a href="./buku.php">Lihat daftar buku</a>
     <a href="./staff.php">Lihat daftar staff</a>
